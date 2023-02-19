@@ -1,0 +1,13 @@
+{
+        "IDs": {
+            "butterscotch": [
+                {"date":"17Feb", "weight":4},
+                {"date":"18Feb", "weight":6},
+                {"date":"19Feb", "weight":12}
+            ],
+            "Camilla": [
+                {"model":"17Feb", "weight":2},
+                {"model":"18Feb", "weight":7}
+            ]
+        }
+}
